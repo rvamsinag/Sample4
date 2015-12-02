@@ -2,4 +2,5 @@ Class SampleJavaFile2
 {
  	public String secondTest;
 	public String thirdTest;
+	public String fourthTest;
 }
